@@ -1,6 +1,6 @@
 #include<stdio.h>
 void perfectsquarecounter()
-{
+{ 
     int n,count=0;
     printf("enter the number:");
     scanf("%d",&n);
