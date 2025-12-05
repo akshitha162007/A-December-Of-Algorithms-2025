@@ -19,3 +19,7 @@ int main()
     perfectsquarecounter();
     return 0;
 }
+enter the number:20
+the perfect square number from 1 to 20 is:
+1 4 9 16 
+number of perfect squares are:4
